@@ -215,7 +215,7 @@ public class Lottor {
                     }
                 }
 
-                if (count >= 2) {
+                if (count == number) {
                     genNumbers.clear();
                 }
             }
